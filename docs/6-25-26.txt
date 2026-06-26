@@ -1,0 +1,5 @@
+Watching the 1 hour python introduction to refresh my python knowledge, tutorial made by "Bro Code"
+
+I learned a decent amount however the tutorial was limited so i will visit and take notes on his 12 hour video on python tommorow. 
+
+I effectively reviewed variables, arithemetic, logical operators, if statements and loops, and lists, tuples and sets.
